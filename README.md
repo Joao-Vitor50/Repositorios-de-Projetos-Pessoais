@@ -1,4 +1,6 @@
-# Calculadora
+# Projetos Pessoais
+Um repositorio para futura criações pessoais 
 
-
-Resolvir desenvolver um calculadora com linguagem python, só pra passar o tempo e melhorar meu senso lógico.
+Lista de criações presentes/futuras
+- Calculadora / Status: Completo
+- Aplicativo de Banco simples / Status: Em Andamento
